@@ -3,5 +3,5 @@ sudo: false
 language: ruby
 cache: bundler
 rvm:
-  - 2.6.1
+  - 2.6.9
 before_install: this is just a demo
